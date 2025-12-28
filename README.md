@@ -383,9 +383,9 @@ Isso significa que você pode:
 
 Desenvolvido com ❤️ por **[Seu Nome]**
 
-- 🐙 GitHub: [@seu-usuario](https://github.com/johnnyvernin)
-- 💼 LinkedIn: [Seu Nome](https://linkedin.com/in/johnnyvernin)
-- 🐦 Twitter/X: [@seu-usuario](https://x.com/johnnyvernin)
+- 🐙 GitHub: [@johnnyvernin](https://github.com/johnnyvernin)
+- 💼 LinkedIn: [Johnny Vernin](https://linkedin.com/in/johnnyvernin)
+- 🐦 Twitter/X: [@johnnyvernin](https://x.com/johnnyvernin)
 
 ---
 
