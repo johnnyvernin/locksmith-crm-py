@@ -7,8 +7,6 @@
 [![SQLite](https://img.shields.io/badge/SQLite-3-orange.svg)](https://www.sqlite.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-![Sistema Chaveiro Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=Sistema+Chaveiro+Dashboard)
-
 ## 📖 História do Projeto
 
 Este projeto nasceu de uma necessidade real compartilhada por um chaveiro profissional no X (antigo Twitter):
